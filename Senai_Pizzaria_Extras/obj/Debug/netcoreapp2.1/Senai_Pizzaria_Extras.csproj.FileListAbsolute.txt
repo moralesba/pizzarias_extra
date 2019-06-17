@@ -1,0 +1,14 @@
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\bin\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.deps.json
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\bin\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.runtimeconfig.json
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\bin\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.runtimeconfig.dev.json
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\bin\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.dll
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\bin\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.pdb
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.csproj.CoreCompileInputs.cache
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.RazorAssemblyInfo.cache
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.RazorAssemblyInfo.cs
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.AssemblyInfoInputs.cache
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.AssemblyInfo.cs
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.RazorTargetAssemblyInfo.cache
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.dll
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.pdb
+C:\Users\47015374897\Desktop\Senai_Pizzaria_Extras\Senai_Pizzaria_Extras\obj\Debug\netcoreapp2.1\Senai_Pizzaria_Extras.csprojAssemblyReference.cache
